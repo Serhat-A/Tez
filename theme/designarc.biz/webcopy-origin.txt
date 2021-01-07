@@ -1,0 +1,956 @@
+Uri: http://designarc.biz/demos/wengdo/
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\index.htm.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/4.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\4.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/flat-icon/flaticon.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\flat-icon\flaticon.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\css\settings.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\css\layers.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/style.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\style.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Open+Sans:wght@400;600;700;800&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\designarc.biz\css2.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/shop-single.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\shop-single.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/index.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\index.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/index-2.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\index-2.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/index-3.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\index-3.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/about.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\about.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/services.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\services.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/testimonials.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\testimonials.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/faq.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\faq.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/comming-soon.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\comming-soon.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/menu.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\menu.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/menu-features.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\menu-features.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/menu-highlights.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\menu-highlights.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/gallery.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\gallery.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/blog.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\blog.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/blog-list.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\blog-list.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/blog-detail.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\blog-detail.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/not-found.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\not-found.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/shops.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\shops.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/shoping-cart.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\shoping-cart.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/checkout.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\checkout.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/contact.html
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\contact.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\logo.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/logo-small.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\logo-small.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-item-1.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-item-1.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-item-2.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-item-2.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-item-3.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-item-3.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/pizza.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\pizza.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/drink.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\drink.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/chips.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\chips.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/4.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\4.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/5.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\5.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/6.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\6.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/combo-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\combo-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/combo-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\combo-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/delivery.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\delivery.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/app.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\app.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-image.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-image.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-1.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-1.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-2.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-2.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-3.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-3.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-4.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-4.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/footer-logo.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\footer-logo.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/jquery.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/parallax.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/jquery-ui.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/js/extensions/revolution.extension.video.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/owl.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\owl.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/wow.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\wow.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/mixitup.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\mixitup.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/appear.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\appear.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/script.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\script.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/flat-icon/Flaticon.eot
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\flat-icon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/flat-icon/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\flat-icon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/flat-icon/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\flat-icon\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/flat-icon/Flaticon.woff
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\flat-icon\Flaticon.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/flat-icon/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\flat-icon\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/flat-icon/Flaticon.svg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\flat-icon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\css\openhand.cur
+Content Type: 
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\css\closedhand.cur
+Content Type: 
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/vendors/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\vendors\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/pe-icon-7-stroke.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/fontawesome-all.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\fontawesome-all.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\animate.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/owl.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\owl.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/jquery-ui.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/jquery.timepicker.min.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\jquery.timepicker.min.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/jquery.bootstrap-touchspin.css
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\jquery.bootstrap-touchspin.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Play:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap
+File Name: C:\Downloaded Web Sites\designarc.biz\css2-1.css
+Content Type: text/css
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/PalaceScriptMT.eot
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\PalaceScriptMT.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/PalaceScriptMT.ttf
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\PalaceScriptMT.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/PalaceScriptMT.woff
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\PalaceScriptMT.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/PalaceScriptMT.svg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\PalaceScriptMT.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/NiagaraSolid-Reg.eot
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\NiagaraSolid-Reg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/NiagaraSolid-Reg.ttf
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\NiagaraSolid-Reg.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/NiagaraSolid-Reg.woff
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\NiagaraSolid-Reg.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/NiagaraSolid-Reg.svg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\NiagaraSolid-Reg.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/icons/preloader.svg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\icons\preloader.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/icons/menu-separator.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\icons\menu-separator.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/icons/header-layer.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\icons\header-layer.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/16.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\16.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/icons/icon-select.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\icons\icon-select.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-bg.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-bg-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/11.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\11.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/11.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\11.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/author-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\author-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/author-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\author-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/jquery.bootstrap-touchspin.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\jquery.bootstrap-touchspin.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/5.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\5.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/6.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\6.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/7.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\7.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/8.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\8.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/logo-2.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\logo-2.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-item-4.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-item-4.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-item-5.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-item-5.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/7.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\7.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/8.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\8.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/9.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\9.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/products/10.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\products\10.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/burger-1.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\burger-1.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/product-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\product-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/product-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\product-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/product-3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\product-3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/product-4.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\product-4.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/testimonial-img.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\testimonial-img.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/9.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\9.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/10.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\10.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/main-slider/slider-3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\main-slider\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/about.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\about.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/package-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\package-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/package-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\package-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d805184.6331292129!2d144.49266890254142!3d-37.97123689954809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad646b5d2ba4df7:0x4045675218ccd90!2sMelbourne VIC%2C Australia!5e0!3m2!1sen!2s!4v1574408946759!5m2!1sen!2s
+File Name: C:\Downloaded Web Sites\designarc.biz\maps\embed.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/12.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\12.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/13.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=kxPCFljwJws
+File Name: C:\Downloaded Web Sites\designarc.biz\watch.html
+Content Type: text/html
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/about-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\about-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/about-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\about-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-5.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-5.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-6.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-6.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/service-7.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\service-7.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/chef-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\chef-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/chef-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\chef-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/chef-3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\chef-3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/chef-4.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\chef-4.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/author-3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\author-3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/author-4.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\author-4.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/14.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\14.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/jquery.countdown.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\jquery.countdown.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/dish-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\dish-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/dish-3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\dish-3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/dish-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\dish-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/image-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\image-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/image-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\image-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/burger-2.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\burger-2.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/pizza-1.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\pizza-1.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/6.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/7.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/8.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/9.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/10.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\10.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/11.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\11.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/12.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\12.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/13.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\13.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/gallery/14.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\gallery\14.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-4.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-4.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-5.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-5.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-6.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-6.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-7.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-7.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-8.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-8.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-9.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-9.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-10.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-10.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-11.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-11.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/news-12.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\news-12.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/post-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\post-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/post-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\post-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/post-thumb-3.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\post-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/post-thumb-4.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\post-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/author-5.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\author-5.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/15.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\15.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/resource/paypall.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\resource\paypall.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/images/background/17.jpg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\images\background\17.jpg
+Content Type: image/jpeg
+
+Uri: http://designarc.biz/demos/wengdo/assets/js/validate.js
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\js\validate.js
+Content Type: application/javascript
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Pe-icon-7-stroke.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Pe-icon-7-stroke.eot?
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Pe-icon-7-stroke-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Pe-icon-7-stroke.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Pe-icon-7-stroke.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Pe-icon-7-stroke.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://designarc.biz/demos/wengdo/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: http://designarc.biz/demos/wengdo/assets/css/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\designarc.biz\demos\wengdo\assets\css\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
